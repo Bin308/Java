@@ -12,10 +12,6 @@ public class SoLonSoBe {
 		System.out.println("Nhap gia tri cua c:");
 		int c = scan.nextInt();
 		
-		
-		
-		
-		
 //		if (a >= b && a >= c){
 //			System.out.println("So lon nhat la:" + a );
 //		}
