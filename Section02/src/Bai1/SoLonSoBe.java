@@ -5,12 +5,16 @@ import java.util.Scanner;
 public class SoLonSoBe {	
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		System.out.print("Nhap gia tri cua a:");
+		System.out.println("Nhap gia tri cua a:");
 		int a = scan.nextInt();
 		System.out.println("Nhap gia tri cua b:");
 		int b = scan.nextInt();
 		System.out.println("Nhap gia tri cua c:");
 		int c = scan.nextInt();
+		
+		
+		
+		
 		
 //		if (a >= b && a >= c){
 //			System.out.println("So lon nhat la:" + a );
